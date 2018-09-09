@@ -1,0 +1,8 @@
+#logo-unicoorp {
+    padding-top: 10px;
+    width: 200px;
+}
+
+.navbar-default.theme-bg-nav.affix .navbar-nav > li.solid-item > a {
+    color: #616c75 !important;
+}

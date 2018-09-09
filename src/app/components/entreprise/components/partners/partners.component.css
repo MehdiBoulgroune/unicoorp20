@@ -1,0 +1,11 @@
+.client-logo-area {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.client-logo{
+    opacity: 1;
+}
+.client-logo img {
+    max-width: 100%;
+    max-height: 125%;
+}

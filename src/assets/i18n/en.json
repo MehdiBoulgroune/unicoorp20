@@ -1,0 +1,141 @@
+{
+    "Navbar" : {
+        "Accueil" : "Home",
+        "Catalog" : "Catalog",
+        "Clients" : "Clients",
+        "Avis" : "Feedback",
+        "Formation" : "UniCoorp's platform",
+        "Medias" : "UniCoorp in the news",
+        "Entreprise" : "For business",
+        "Elearning" : "UniCoorp's solution",
+        "Partenaires" : "Academic partners",
+        "Contact" : "Contact",
+        "Faqs" : "FAQs",
+        "Connexion" : "Log in"
+    },
+    "Footer" : {
+        "Formations" : "Courses",
+        "Formation1" : "Become a great manager",
+        "Formation2" : "Be a leader",
+        "Formation3" : "Learn how to communicate",
+        "Formation4" : "Organize and conduct a meeting",
+        "Ressources" : "Resources",
+        "Entreprise" : "Company",
+        "Contact" : "Contact",
+        "Faqs" : "FAQs",
+        "ContactUs": "Contact Us"
+    },
+    "Accueil" : {
+        "Banner" : {
+            "BannerTitle" : "The Digital Learning Experience",
+            "BannerText" : "Skyrocket your career and bring more to your business by joining UniCoorp's digital learning platform",
+            "BannerButton" : "Start your course"
+        },
+        "Catalog" : {
+            "SectionTitle" : "Discover our  catalog",
+            "SectionText" : "UniCoorp's online courses are available in different areas: management, customer relations, digital culture, soft skills or languages. Discover all our digital resources accessible everywhere",
+            "PackName1" : "Become a great manager",
+            "PackName2" : "Be a leader",
+            "PackName3" : "Learn how to communicate",
+            "PackName4" : "Organize and conduct a meeting"
+
+        },
+        "Clients" : {
+            "SectionTitle" : "They already use UniCoorp's digital solution in their company trainings",
+            "SectionText" : "Different kind of companies were seduced by our global digital learning solution. Join our community and enjoy innovative trainings "
+        },
+        "Testimonial" : {
+            "SectionTitle" : "What they say about UniCoorp's digital learning",
+            "SectionText" : "We assist the general management and the human resources department to establish training plans for all employees. Offering e-learning courses in employee trainings has improved business results",
+            "Testimonial1" : "We were quickly seduced by UniCoorp's digital learning solution for the continuous training of our human resources. UniCoorp has allowed us to quickly deliver world-class training to all of our employees at a fraction of the cost of a traditional course"
+        },
+        "Formation" : {
+            "SectionTitle" : "UniCoorp's courses",
+            "SectionText" : "UniCoorp's e-learning platform digitalise the professional training of employees, it is based on the following four pillars",
+            "FormationTitle1" : "Videos",
+            "FormationText1" : "Learn in an entertaining way with our animated videos",
+            "FormationTitle2" : "Quizz",
+            "FormationText2" : "Validate your knowledge through our quizz and games",
+            "FormationTitle3" : "Certificates",
+            "FormationText3" : "Make the most of your achievements by obtaining prizes and certificates",
+            "FormationTitle4" : "Machine Learning",
+            "FormationText4" : "Personalize your learning experience with our I.A tool"
+        },
+        "Media" : {
+            "SectionTitle" : "UniCoorp in the news",
+            "SectionText" : "Find the contributions of Adlen Berkani on the importance of e-learning as a catalyst for the economic development in developing countries (Algeria, and more broadly Africa) but also in France and Europe."
+        },
+        "Subscribe" : {
+            "SectionTitle" : "Contact Us",
+            "SectionText" : "Contact our offices in Algiers (Algeria) and Nice (France) for more information about our product and to get a demonstration"
+        }
+    },
+    "Entreprise" : {
+        "Accompany" : {
+            "BannerTitle1" : "Follow",
+            "BannerTitle2" : "The digital transformation of your company",
+            "BannerText" : "Grow your business with UniCoorp's online courses. Benefit from personalized support to help your employees progress"
+        },
+        "Features" : {
+            "SectionTitle" : "The E-learning with UniCoorp",
+            "FeatureTitle1" : "Accessible",
+            "FeatureText1" : "Access a library of online courses available directly and internationally with the best educational resources",
+            "FeatureTitle2" : "Personalized",
+            "FeatureText2" : "Benefit from a personalized e-learning solution adapted to the needs of international companies and their employees",
+            "FeatureTitle3" : "Motivating",
+            "FeatureText3" : "Train your employees through a gamified environment with rewards and certificates to the key",
+            "FeatureTitle4" : "Economic",
+            "FeatureText4" : "Reduce your training costs with attractive rates that will allow you to quickly train all of your employees"
+        },
+        "Partners" : {
+            "SectionTitle" : "UniCoorp's academic partners"
+        },
+        "Discover" : {
+            "SectionTitle" : "Discover our catalog",
+            "SectionText" : "Explore our online catalog and enjoy quality classes. Customized training for your company can also be developed"
+        }
+    },
+    "Contact" : {
+        "ContactForm" : {
+            "SectionTitle" : "Contact Us",
+            "Name" : "Last name and First Name",
+            "Company" : "Company name",
+            "Email" : "Email",
+            "Phone" : "Phone",
+            "Message" : "Message",
+            "Send" : "Send",
+            "Succes" : "Your message has been sent. Thank you for contacting us.",
+            "Error" : "Sorry, something went wrong. Try again later",
+            "InfoText1" : "Based in Rouiba in the Wilaya of Algiers and in Nice in the South of France, UniCoorp is at the heart of research on new ways of learning",
+            "InfoText2" : "Expertise",
+            "InfoText3" : "Adapt the training content of its clients to its new ways of learning",
+            "InfoText4" : "1 allée des fauvettes, 06510 Gattières",
+            "InfoText5" : "11 rue du 24 avril / 11 rue de Palestine, Rouiba, Algiers",
+            "InfoText6" : "A 10-minute walk from Mohamed Khemisti Square",
+            "InfoText7" : "In front of Albert Einstein Elementary School",
+            "InfoTitle1" : "ADDRESS",
+            "InfoTitle2" : "CONTACT"
+        }
+    },
+    "Faqs" : {
+        "SectionTitle" : "Questions & answers",
+        "PanelTitle1" : "What is UniCoorp for?",
+        "PanelBody1" : "Unicoorp is an online learning organisation aimed at companies wishing to offer quality training to all their employees, without time or travel constraints",
+        "PanelTitle2" : "Can I train my staff on all subjects?",
+        "PanelBody2" : "It's entirely possible. Unicoorp has developed a catalog adapted to the Algerian market in several domains (management, digital, languages, customer relations). Thanks to our network of experts and our pedagogical team based in Algiers, we develop tailor-made courses for the specific needs of your company",
+        "PanelTitle3" : "What are the prerequisites to start the adventure?",
+        "PanelBody3" : "There is no prerequisite. Unicoorp adapts its courses at all levels. From novices to experts, we offer tailor-made courses to meet all needs",
+        "PanelTitle4" : "What resources do we need to use Unicoorp?",
+        "PanelBody4" : "The Unicoorp platform is available online. So you need an internet connection (3G) and an electronic support (PC, smartphone or tablet) to use it. Our team of developers is also available to help install the Unicoorp solution directly on your servers",
+        "PanelTitle5" : "How is a training going?",
+        "PanelBody5" : "Each learner has a password and a login to access the platform. Once online, he can thus access a set of learning modules chosen by his tutor (manager, HR, training team)",
+        "PanelTitle6" : "How is a learning module composed?",
+        "PanelBody6" : "Each module is composed of videos that promote learning through interactive and stimulating animations. The learner thus packages his knowledge by answering quizzes (questions and practical exercises). Access to a discussion forum to exchange with other employees is also made available to progress together. Finally, thanks to our Machine Learning tool, an artificial intelligence answers questions and personalizes everyone's learning.",
+        "PanelTitle7" : "Do you offer follow-up of learners progress?",
+        "PanelBody7" : "Of course, we offer Analytics tools to manage your community of learners. Thus, you can determine the skill level of your employees thanks to the results of the analyzes of our platform",
+        "PanelTitle8" : "How can I motivate learners to continue training?",
+        "PanelBody8" : "Unicoorp offers a Community Management service to help your tutors maintain interest in the groups of learners. We stimulate employees by organizing meetings and exchange sessions within your company, sending newsletters and personalized e-mailing to each learner, and valuing the success of Supers Learners (best success on our platform)",
+        "PanelTitle9" : "What is your data protection and IT security policy?",
+        "PanelBody9" : "Unicoorp takes all necessary measures to ensure the confidentiality and security of the personal data collected and processed on its platform. Our concern is to preserve the quality and integrity of the personal data of your employees from the first connection to the last"
+    }
+}

@@ -1,0 +1,23 @@
+<div class="section section-padding gray-bg" id="media" dir="auto">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1 col-xs-12">
+                <div class="section-header text-center ">
+                    <h3 class="section-title">{{'Accueil.Media.SectionTitle' | translate}}</h3>
+                    <p class="section-text">{{'Accueil.Media.SectionText' | translate}}</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 ">
+                <div class="client-logos">
+                    <div class="client-logo-area">
+                        <a *ngFor="let media of medias" href="{{media.link}}" class="client-logo">
+                            <img src="../../../../../assets/unicoorp/medias/media-{{media.id}}.png" alt="UniCoorp">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

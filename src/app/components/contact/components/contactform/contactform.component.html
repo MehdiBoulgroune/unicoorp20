@@ -1,0 +1,52 @@
+<div class="contact section section-padding" dir="auto">
+    <div class="container">
+            <div class="row">
+                    <div class="col-md-10 col-md-offset-1 col-xs-12">
+                        <div class="section-header text-center ">
+                            <h3 class="section-title">{{'Contact.ContactForm.SectionTitle' | translate}}</h3>
+                        </div>
+                    </div>
+                </div>
+        <div class="row">
+            <div class="col-md-6">
+                <form id="contactForm" class="contact-form">
+                    <input required="required" id="name" type="text" name="name" placeholder="{{'Contact.ContactForm.Name' | translate}}">
+                    <input required="required" id="company" type="text" name="company" placeholder="{{'Contact.ContactForm.Company' | translate}}">
+                    <input required="required" id="email" type="email" name="email" placeholder="{{'Contact.ContactForm.Email' | translate}}">
+                    <input required="required" id="phone" type="text" name="phone" placeholder="{{'Contact.ContactForm.Phone' | translate}}">
+                    <textarea required="required" id="message" rows="5" name="message" placeholder="{{'Contact.ContactForm.Message' | translate}}"></textarea>
+                    <Button type="submit" class="btn btn-gradient" (click)="sendForm()">{{'Contact.ContactForm.Send' | translate}}</Button>
+                    <div class="clearfix"></div>
+                    <p class="input-success">{{'Contact.ContactForm.Succes' | translate}}</p>
+                    <p class="input-error">{{'Contact.ContactForm.Error' | translate}}</p>
+                </form>
+            </div>
+            <div class="col-md-5 col-md-offset-1">
+                <div class="contact-info-box">
+                    <p class="contact-info-text">{{'Contact.ContactForm.InfoText1' | translate}}</p>
+                    <p>
+                        <b>{{'Contact.ContactForm.InfoText2' | translate}} :</b>
+                        <br> {{'Contact.ContactForm.InfoText3' | translate}}.</p>
+                    <h5 class="contact-info-title">{{'Contact.ContactForm.InfoTitle1' | translate}}</h5>
+                    <p class="contact-info-text"><b>France: </b>{{'Contact.ContactForm.InfoText4' | translate}}</p>
+                    <p class="contact-info-text"><b>Algérie: </b>{{'Contact.ContactForm.InfoText5' | translate}}</p>
+                    <ul>
+                        <li>{{'Contact.ContactForm.InfoText6' | translate}}</li>
+                        <li>{{'Contact.ContactForm.InfoText7' | translate}}</li>
+                    </ul>
+                    <h5 class="contact-info-title">{{'Contact.ContactForm.InfoTitle2' | translate}}</h5>
+                    <p>
+                        <strong>Email : </strong>
+                        <a href="mailto:contact@unicoorp.com">contact@unicoorp.com</a>
+                    </p>
+                    <p>
+                        <strong>Tel : </strong> +33 6 23 55 02 87</p>
+                    <p>
+                        <strong>Tel : </strong> +213 673 938 907</p>
+                    <p>
+                        <strong>Tel : </strong> +213 551 372 975</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,141 @@
+{
+    "Navbar" : {
+        "Accueil" : "Accueil",
+        "Catalog" : "Notre catalogue",
+        "Clients" : "Nos clients",
+        "Avis" : "Avis",
+        "Formation" : "La formation UniCoorp",
+        "Medias" : "UniCoorp dans les médias",
+        "Entreprise" : "Entreprise",
+        "Elearning" : "UniCoorp e-learning",
+        "Partenaires" : "Partenaires académiques",
+        "Contact" : "Contact",
+        "Faqs" : "FAQs",
+        "Connexion" : "Connexion"
+    },
+    "Footer" : {
+        "Formations" : "Formations",
+        "Formation1" : "Devenez un bon manager",
+        "Formation2" : "Être un leader",
+        "Formation3" : "Apprendre à communiquer",
+        "Formation4" : "Organiser et mener une réunion",
+        "Ressources" : "Ressources",
+        "Entreprise" : "Entreprise",
+        "Contact" : "Contact",
+        "Faqs" : "FAQs",
+        "ContactUs": "Contactez-nous"
+    },
+    "Accueil" : {
+        "Banner" : {
+            "BannerTitle" : "Découvrez le digital learning",
+            "BannerText" : "Stimulez votre carrière et apportez un plus à votre entreprise en suivant les formations en ligne de la solution digital learning UniCoorp",
+            "BannerButton" : "Commencez votre formation"
+        },
+        "Catalog" : {
+            "SectionTitle" : "Découvrez l’ensemble de notre catalogue",
+            "SectionText" : "Les formations en ligne UniCoorp sont disponibles dans différents domaines, que ce soit le management, la relation client, la culture digitale, les softs skills ou encore les langues. Découvrez l’ensemble de nos ressources numériques accessible partout",
+            "PackName1" : "Devenez un bon manager",
+            "PackName2" : "Être un leader",
+            "PackName3" : "Apprendre à communiquer",
+            "PackName4" : "Organiser et mener une réunion"
+
+        },
+        "Clients" : {
+            "SectionTitle" : "Ils suivent déjà notre formation en ligne",
+            "SectionText" : "De nombreuses entreprises se forment déjà avec les nouvelles méthodes d’apprentissage grâce à la plateforme technologique de e-learning UniCoorp. Ces entreprises ont été séduites par notre solution globale de digital learning"
+        },
+        "Testimonial" : {
+            "SectionTitle" : "Ce qu'ils disent du e-learning UniCoorp",
+            "SectionText" : "Nous accompagnons la direction générale et le département de ressources humaines des entreprises pour établir des plans de formation à l’ensemble des collaborateurs. Proposer du e-learning dans la formation continue des employés a permis d’améliorer les résultats des entreprises",
+            "Testimonial1" : "Nous avons été rapidement séduits par la solution de digital learning UniCoorp pour la formation continue de nos ressources humaines. UniCoorp nous a permis de dispenser rapidement une formation de qualité internationale à l’ensemble de nos collaborateurs à une fraction du prix d’une formation classique"
+        },
+        "Formation" : {
+            "SectionTitle" : "La formation UniCoorp",
+            "SectionText" : "La plateforme de e-learning UniCoorp digitalise la formation continue des employés sous forme de ressources numériques et se base sur les 4 piliers suivants",
+            "FormationTitle1" : "Vidéos",
+            "FormationText1" : "Apprenez de manière divertissante avec nos animations",
+            "FormationTitle2" : "Quizz",
+            "FormationText2" : "Validez vos connaissances en répondant à des questions",
+            "FormationTitle3" : "Certificats",
+            "FormationText3" : "Valorisez vos acquis en obtenant des prix et certificats",
+            "FormationTitle4" : "Machine Learning",
+            "FormationText4" : "Personnalisez votre apprentissage avec notre outil I.A"
+        },
+        "Media" : {
+            "SectionTitle" : "UniCoorp dans les médias",
+            "SectionText" : "Retrouvez les interventions d’Adlen Berkani sur l’importance du e-learning comme catalyseur du développement économique des pays en voie de développement (Algérie, et plus largement Afrique) mais aussi en France et en Europe."
+        },
+        "Subscribe" : {
+            "SectionTitle" : "Contactez-nous",
+            "SectionText" : "Contactez nos bureaux d’Alger (Algérie) et de Nice (France) pour plus d’informations sur notre produit et bénéficiez d’une démonstration"
+        }
+    },
+    "Entreprise" : {
+        "Accompany" : {
+            "BannerTitle1" : "Accompagnez",
+            "BannerTitle2" : "la transformation digitale de votre entreprise",
+            "BannerText" : "Faîtes grandir votre entreprise avec les formations en ligne UniCoorp. Profitez d’un accompagnement individualisé et personnalisé pour faire progresser vos collaborateurs"
+        },
+        "Features" : {
+            "SectionTitle" : "Le e-learning avec UniCoorp",
+            "FeatureTitle1" : "Accessible",
+            "FeatureText1" : "Accédez à une bibliothèque de cours en ligne disponible directement à l'international avec les meilleures ressources pédagogiques",
+            "FeatureTitle2" : "Personnalisé",
+            "FeatureText2" : "Profitez d’une solution e-learning personnalisée et adaptée aux besoins des entreprises internationales et de leurs collaborateurs",
+            "FeatureTitle3" : "Motivant",
+            "FeatureText3" : "Formez vos employés grâce à un environnement gamifié avec des récompenses et certificats à la clef",
+            "FeatureTitle4" : "Economique",
+            "FeatureText4" : "Réduisez vos coûts de formation avec des tarifs attractifs qui vous permettront de former rapidement l’ensemble de vos collaborateurs"
+        },
+        "Partners" : {
+            "SectionTitle" : "Les partenaires académiques de UniCoorp"
+        },
+        "Discover" : {
+            "SectionTitle" : "Découvrez notre catalogue",
+            "SectionText" : "Explorez notre catalogue en ligne et profitez de cours de qualité. Des formations sur mesure pour votre entreprise peuvent également être développées"
+        }
+    },
+    "Contact" : {
+        "ContactForm" : {
+            "SectionTitle" : "Contactez-nous",
+            "Name" : "Nom & Prénom",
+            "Company" : "Nom d'entreprise",
+            "Email" : "Email",
+            "Phone" : "Tel",
+            "Message" : "Message",
+            "Send" : "Envoyer",
+            "Succes" : "Votre message a bien été envoyé, Merci de nous avoir contacté",
+            "Error" : "Désolé, quelque chose s'est mal passé. Réessayez plus tard",
+            "InfoText1" : "Basée à Rouiba dans la Wilaya d’Alger et à Nice dans le Sud de la France, UniCoorp est au cœur de la recherche sur les nouveaux modes d’apprentissage",
+            "InfoText2" : "Son savoir-faire",
+            "InfoText3" : "Adapter les contenus de formation de ses clients à ses nouvelles façons d’apprendre",
+            "InfoText4" : "1 allée des fauvettes, 06510 Gattières",
+            "InfoText5" : "11 rue du 24 avril / 11 rue de Palestine, Rouiba, Wilaya d’Alger",
+            "InfoText6" : "A 10 minutes à pied de la place Mohamed Khemisti",
+            "InfoText7" : "En face de l’école primaire Albert Einstein",
+            "InfoTitle1" : "ADDRESSE",
+            "InfoTitle2" : "CONTACT"
+        }
+    },
+    "Faqs" : {
+        "SectionTitle" : "Questions & Réponses",
+        "PanelTitle1" : "A qui s’adresse UniCoorp?",
+        "PanelBody1" : "Unicoorp s’adresse aux entreprises souhaitant proposer des formations de qualité à tous ses collaborateurs, sans contraintes de temps ni de déplacement",
+        "PanelTitle2" : "Puis-je former mes collaborateurs sur tous les sujets ?",
+        "PanelBody2" : "C’est tout à fait possible. Unicoorp a développé un catalogue adapté au marché algérien dans plusieurs domaines (management, digital, langues, relation client). Grâce à notre réseau d’experts et notre équipe pédagogique basée à Alger, nous développons des cours sur mesure pour le besoin spécifique de votre entreprise",
+        "PanelTitle3" : "Quels sont les prérequis à avoir pour débuter l’aventure ?",
+        "PanelBody3" : "Il n’y a pas de prérequis. Unicoorp adapte ses parcours à tous les niveaux. Des novices aux experts, nous proposons des parcours sur mesure pour répondre à tous les besoins",
+        "PanelTitle4" : "De quelles ressources avons-nous besoin pour utiliser Unicoorp ?",
+        "PanelBody4" : "La plateforme Unicoorp est disponible en ligne. Vous avez donc besoin d’une connexion internet (3G) et d’un support électronique (PC, smartphone ou tablette) pour l’utiliser. Notre équipe de développeurs est également disponible pour aider à installer la solution Unicoorp directement sur vos serveurs",
+        "PanelTitle5" : "Comment se passe le déroulement d’une formation ?",
+        "PanelBody5" : "Chaque apprenant possède un mot de passe et un login pour accéder à la plateforme. Une fois en ligne, il peut ainsi accéder à un ensemble de modules d’apprentissage choisis par son tuteur (manager, RH, équipe de formation)",
+        "PanelTitle6" : "Comment est composé un module d’apprentissage ?",
+        "PanelBody6" : "Chaque module est composé de vidéos qui favorisent l’apprentissage grâce à des animations interactives et stimulantes. L’apprenant valise ainsi ses connaissances en répondant à des quizz (questions et exercices pratiques). Un accès à un forum de discussion pour échanger avec les autres collaborateurs est aussi mis à disposition afin de pouvoir progresser tous ensemble. Enfin, grâce à notre outil de Machine Learning (algorithme de traitement de données), une intelligence artificielle répond aux questions et personnalise l’apprentissage de chacun",
+        "PanelTitle7" : "Offrez-vous un suivi de la progression des apprenants ?",
+        "PanelBody7" : "Bien-sûr, nous proposons des outils Analytics pour pouvoir gérer votre communauté d’apprenants. Ainsi, vous pouvez déterminer le niveau de compétences de vos employés grâce aux résultats des analyses de notre plateforme",
+        "PanelTitle8" : "Comment puis-je motiver les apprenants à poursuivre la formation ?",
+        "PanelBody8" : "Unicoorp propose un service de Community Management pour aider vos tuteurs à entretenir l’intérêt au sein des groupes d’apprenants. Nous stimulons les collaborateurs en organisant des rencontres et des séances d’échange au sein de votre entreprise, en envoyant des newsletters et des e-mailing personnalisé à chaque apprenant, et en valorisant la réussite des Supers Apprenants (meilleure réussite sur notre plateforme)",
+        "PanelTitle9" : "Quelle est votre politique de protection des données et de sécurité informatique ?",
+        "PanelBody9" : "Unicoorp veille à prendre toutes les mesures nécessaires afin d’assurer la confidentialité et la sécurité des données à caractère personnel collectées et traitées sur sa plateforme. Notre préoccupation est de préserver la qualité et l’intégrité des données personnelles de vos collaborateurs de la première connexion à la dernière"
+    }
+}

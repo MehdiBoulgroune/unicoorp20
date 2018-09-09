@@ -1,0 +1,108 @@
+<footer class="footer-widget section-padding gray-bg bottom-0" style="padding-top: 30px;" dir="auto">
+    <div class="container">
+        <div class="footer-widget-area">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget logo-widget">
+                        <a class="footer-logo" [routerLink]="['']">
+                            <img id="logo-unicoorp" src="../../../assets/unicoorp/logo-unicoorp-2.png" alt="UniCoorp">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget custom-menu-widget">
+                        <h4 class="widget-title">{{'Footer.Formations' | translate}}</h4>
+                        <ul class="widget-menu">
+                            <li>
+                                <a href="http://cours.unicoorp.com">{{'Footer.Formation1' | translate}}</a>
+                            </li>
+                            <li>
+                                <a href="http://cours.unicoorp.com">{{'Footer.Formation2' | translate}}</a>
+                            </li>
+                            <li>
+                                <a href="http://cours.unicoorp.com">{{'Footer.Formation3' | translate}}</a>
+                            </li>
+                            <li>
+                                <a href="http://cours.unicoorp.com">{{'Footer.Formation4' | translate}}</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget custom-menu-widget">
+                        <h4 class="widget-title">{{'Footer.Ressources' | translate}}</h4>
+                        <ul class="widget-menu">
+                            <li>
+                                <a [routerLink]="['/entreprise']">{{'Footer.Entreprise' | translate}}</a>
+                            </li>
+                            <li>
+                                <a [routerLink]="['/faqs']">{{'Footer.Faqs' | translate}}</a>
+                            </li>
+                            <li>
+                                <a [routerLink]="['/contact']">{{'Footer.Contact' | translate}}</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget contact-widget">
+                        <h4 class="widget-title">{{'Footer.ContactUs' | translate}}</h4>
+                        <ul class="widget-social">
+                            <li>
+                                <a href="mailto:contact@unicoorp.com">
+                                    <strong>Email:</strong> contact@unicoorp.com</a>
+                            </li>
+                            <li>
+                                <a>
+                                    <strong>Tel:</strong> +213 770 693 844 </a>
+                            </li>
+                            <li>
+                                <a>
+                                    <strong>Tel:</strong> +213 21 856 350 </a>
+                            </li>
+                            <li>
+                                <a>
+                                    <strong>Tel:</strong> +33 623 550 287‬ </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+            <hr style="border-bottom: 1px solid hsla(0,0%,100%,.3); border-top: 1px solid rgba(0,0,0,.1); margin: 0;">
+            <div class="row" dir="ltr">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <p class="copyright">© 2017 - 2018 UniCoorp, INT.</p>
+                </div>
+                <div class="col-md-offset-7 col-md-2 col-sm-6 col-xs-12">
+                    <div class="widget contact-widget">
+                        <ul class="widget-social">
+                            <li>
+                                <a href="https://www.facebook.com/UniCoorp.dz/">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/company/unicoorp/">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/channel/UCxfrBTvTHy53bIkTHnH4wlw">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <select (change)="changeLanguages($event.target.value)">
+                                    <option value="fr">Français</option>
+                                    <option value="ar">العربية</option>
+                                    <option value="en">English</option>
+                                </select>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

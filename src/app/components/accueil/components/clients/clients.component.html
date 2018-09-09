@@ -1,0 +1,23 @@
+<div class="section section-padding" id="clients" dir="auto">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1 col-xs-12">
+                <div class="section-header text-center ">
+                    <h3 class="section-title">{{'Accueil.Clients.SectionTitle' | translate}}</h3>
+                    <p class="section-text">{{'Accueil.Clients.SectionText' | translate}}</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 ">
+                <div class="client-logos">
+                    <div class="client-logo-area">
+                        <a *ngFor="let client of clients" class="client-logo">
+                            <img src="../../../../../assets/unicoorp/clients/client-{{client}}.png" alt="UniCoorp">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

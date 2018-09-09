@@ -1,0 +1,24 @@
+<div class="section section-padding gray-bg" id="partenaires">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1 col-xs-12">
+                <div class="section-header text-center ">
+                    <h3 class="section-title">{{'Entreprise.Partners.SectionTitle' | translate}}</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 ">
+                <div class="client-logos">
+                    <div class="client-logos">
+                        <div class="client-logo-area">
+                            <a *ngFor="let partner of partners" href="{{partner.link}}" class="client-logo">
+                                <img src="../../../../../assets/unicoorp/partners/partner-{{partner.id}}.png" alt="UniCoorp">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

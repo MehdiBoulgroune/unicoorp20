@@ -1,0 +1,67 @@
+<nav class="navbar navbar-default theme-bg-nav" data-spy="affix" data-offset-top="60">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" style.border-color="{{ choixCouleur() ? '#3aa6fe' : '#3aa6fe' }}" class="navbar-toggle collapsed" data-toggle="collapse"
+                data-target="#navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar" style.background-color="{{ choixCouleur() ? '#3aa6fe' : '#3aa6fe' }}"></span>
+                <span class="icon-bar" style.background-color="{{ choixCouleur() ? '#3aa6fe' : '#3aa6fe' }}"></span>
+                <span class="icon-bar" style.background-color="{{ choixCouleur() ? '#3aa6fe' : '#3aa6fe' }}"></span>
+            </button>
+            <a class="navbar-brand" [routerLink]="['']">
+                <img id="logo-unicoorp" src="{{ choixLogo() ? '../../../assets/unicoorp/logo-unicoorp-1.png' : '../../../assets/unicoorp/logo-unicoorp-2.png'}}"
+                    alt="UniCoorp Logo">
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse " id="navbar-collapse" dir="auto">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a [routerLink]="['']" style.color="{{ choixCouleur() ? '#616c75' : '#616c75' }}">{{'Navbar.Accueil' | translate}}</a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="#catalog">{{'Navbar.Catalog' | translate}}</a>
+                        </li>
+                        <li>
+                            <a href="#clients">{{'Navbar.Clients' | translate}}</a>
+                        </li>
+                        <li>
+                            <a href="#avis">{{'Navbar.Avis' | translate}}</a>
+                        </li>
+                        <li>
+                            <a href="#formation">{{'Navbar.Formation' | translate}}</a>
+                        </li>
+                        <li>
+                            <a href="#media">{{'Navbar.Medias' | translate}}</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a [routerLink]="['/entreprise']" style.color="{{ choixCouleur() ? '#616c75' : '#616c75' }}">{{'Navbar.Entreprise' | translate}}</a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="entreprise#e-learning">{{'Navbar.Elearning' | translate}}</a>
+                        </li>
+                        <li>
+                            <a href="entreprise#partenaires">{{'Navbar.Partenaires' | translate}}</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a [routerLink]="['/contact']" style.color="{{ choixCouleur() ? '#616c75' : '#616c75' }}">{{'Navbar.Contact' | translate}}</a>
+                </li>
+                <li>
+                    <a [routerLink]="['/faqs']" style.color="{{ choixCouleur() ? '#616c75' : '#616c75' }}">{{'Navbar.Faqs' | translate}}</a>
+                </li>
+
+                <li>
+                    <a [routerLink]="['/blog']" style.color="{{ choixCouleur() ? '#616c75' : '#616c75' }}">Blog</a>
+                </li>
+
+                <li class="solid-item">
+                    <a href="http://cours.unicoorp.com/login">{{'Navbar.Connexion' | translate}}</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
